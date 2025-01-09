@@ -36,7 +36,7 @@ public class Problema4 {
             calcularValorLuz(nombre, cedula);
         } else {
             if (tipo == 2){
-                calcularPredio(nombre, cedula);
+            calcularPredio(nombre, cedula);
             }
         }
     }
